@@ -129,4 +129,4 @@ sns.pairplot(df)
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+Thus the data analysis has been implemented succesfully.
